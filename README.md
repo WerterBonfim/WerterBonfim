@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Werter
+- 👀 I’m interested in C#, dotnet, React, Docker, SqlServer, EFCore, Rabbitmq, Clean Code...
+- 🌱 I’m currently learning Rabbitmq
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me https://www.linkedin.com/in/werter/
+
