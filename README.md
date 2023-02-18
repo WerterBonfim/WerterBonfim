@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Werter
-- 👀 I’m interested in C#, dotnet, React, Docker, SqlServer, EFCore, Rabbitmq, Clean Code, Distributed API Management...
-- 🌱 I’m currently learning Rabbitmq, AppMetrics, Advanced Distributed API Management
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C#, dotnet, Linux, Docker, SqlServer, PostgreSql, Redis, MongoDb, Rabbitmq, Clean Code, Python and Ruby.
+- 🌱 I’m currently learning DevOps, AppMetrics, Advanced Distributed API Management, Advanced Design Systems
 - 📫 How to reach me https://www.linkedin.com/in/werter/
 
