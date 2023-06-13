@@ -1,7 +1,7 @@
-- 👋 Olá, meu nome é Werter, sou desenvolvedor dotnet.
-- 👀 Tenho interesse em dotnet, Linux, teste de software e sempre pesquiso melhores formas de fazer as coisas. 
-- 🌱 Recentemente estou aprendendo sobre a cultura DevOps, forma mais inteligentes de trabalhar e estudar, padrões e inteligencia artificial voltado 
-a produtividade do meu workflow.
-- 🎸 Gosto de guitarra, musculação e games do genero pluzzle.
-- 📫 Você pode me encontrar aqui: https://www.linkedin.com/in/werter/
-
+- 👋 Olá, meu nome é Werter e sou um desenvolvedor dotnet com mais de 10 anos de experiência. 
+- 👀 Tenho grande interesse em tecnologias relacionadas ao dotnet, Linux e testes de software. Sempre busco maneiras mais eficientes de realizar minhas tarefas e aprimorar minhas habilidades.
+- 🌱 Recentemente, tenho me dedicado a aprender sobre a cultura DevOps, padrões de desenvolvimento e inteligência artificial voltada para aumentar a produtividade do meu workflow.
+- 🚀 Tenho projetos freelances em produção com clientes reais, o que me permite aplicar minhas habilidades em projetos reais e obter feedback valioso.
+- 📚 Além disso, estou sempre melhorando minhas habilidades de programação através de estudos e contribuição em projetos open source.
+- 🎸 Além da programação, gosto de tocar guitarra, praticar musculação e jogar games do gênero puzzle.
+- 📫 Você pode me encontrar no LinkedIn: https://www.linkedin.com/in/werter/.
