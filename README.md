@@ -1,6 +1,7 @@
-- 👋 Olá, meu nome é Werter e sou um desenvolvedor backend dotnet com 12+ anos de experiência. 
-- 👀 Tenho grande interesse em tecnologias relacionadas ao dotnet, Linux e testes de software. Sempre busco maneiras mais eficientes de realizar minhas tarefas e aprimorar minhas habilidades.
-- 🌱 Recentemente, tenho me dedicado a aprender sobre a cultura DevOps, SysAdmin, padrões de desenvolvimento, Blockchain e inteligência artificial voltada para aumentar a produtividade do meu workflow.
+- 👋 Olá, meu nome é Werter e sou um desenvolvedor backend dotnet com 15+ anos de experiência. 
+- 👀 Tenho grande interesse em arquitetura de software, Linux e testes de software.
 - 📚 Além disso, estou sempre melhorando minhas habilidades de programação através de estudos de projetos open source e mentorias com alguns devs e arquitetos.
 - 🏎️ Além da programação, gosto de Automobilismo Virtual competitivos como Gran Turismo 7, Assetto Corsa Competizione e de vez enquando um Rainbow Six Siege.
 - 📫 Você pode me encontrar no LinkedIn: https://www.linkedin.com/in/werter/.
+
+- Esse respositório serve somente para estudos pessoais.
